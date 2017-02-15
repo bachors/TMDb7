@@ -1,0 +1,9 @@
+.ks-card-header-pic .card-header {
+  height: 120vw;
+  background-size: cover;
+  background-position: center;
+  text-shadow: 1px 1px 1px #000;
+}
+.chip .chip-label {
+	max-width: 230px
+}
